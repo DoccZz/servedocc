@@ -1,5 +1,5 @@
 <h2>servedocc
-  <img src="http://zeezide.com/img/macro/MacroExpressIcon128.png"
+  <img src="http://zeezide.com/img/docz/ServeDocZ100.png"
            align="right" width="100" height="100" />
 </h2>
 
@@ -38,6 +38,3 @@ We like
 GitHub stars, 
 cool [contract work](http://zeezide.com/en/services/services.html),
 presumably any form of praise you can think of.
-
-There is a `#microexpress` channel on the 
-[Noze.io Slack](http://slack.noze.io/). Feel free to join!
